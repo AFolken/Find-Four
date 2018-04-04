@@ -1,5 +1,5 @@
 # Find-Four
-An algorithm designed to find if a "4" was among summed values.
+An algorithm designed to find if a "4" was among summed values. In Python and SQL.
 
 Each encounter has one or more of the following selected.
 
